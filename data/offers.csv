@@ -1,0 +1,83 @@
+offer_id,level,type,attempt,seq_in_attempt,moves_offered,extras,price_coin,balance,affordable,decision,remaining,remaining_units,goals_open,remaining_share,streak_step_at_stake,other_stake,exit_warning,seconds_to_decision,welcome_pack_shown,pass_card_first_4_frames,recording,t,time_utc,source
+1,9,normal,1,1,5,,900,,,declined,,,,,,,,,,,,,,form
+2,9,normal,2,1,5,,900,,,bought,,,,,,,,,,,,,,form
+3,13,normal,1,1,5,,900,1740,1,declined,,,,,,,,,,,,,,form
+4,13,normal,2,1,10,2 in-level boosters,900,1740,1,bought,,,,,,,,,,,,,,form
+5,18,normal,1,1,5,,900,946,1,declined,baykus 10,10,1,0.204,,,,8,1,0,R02,112,2026-11-09,recording
+6,19,normal,1,1,5,,900,1217,1,declined,buz 5,5,1,0.062,,,,3,1,0,R02,311,2026-11-09,recording
+7,19,normal,2,1,10,2 Elektrik Topu,900,1217,1,declined,baykus 6,6,1,0.075,,,,6,1,0,R02,420,2026-11-09,recording
+8,20,pve,1,1,5,,900,1232,1,declined,pve: enemy hp 106,,,,,,,6,1,0,R02,646,2026-11-09,recording
+9,22,normal,1,1,5,,900,1265,1,declined,kadeh 1,1,1,0.014,,,,3,1,0,R02,998,2026-11-09,recording
+10,24,hard,1,1,5,,900,1308,1,declined,baykus 1,1,1,0.01,,,,4,1,0,R03,353,2026-11-09,recording
+11,24,hard,2,1,10,2 Elektrik Topu,900,1308,1,declined,"kadeh 7, baykus 49",56,2,0.56,,,,4,1,0,R03,431,2026-11-09,recording
+12,24,hard,3,1,15,2 Elektrik Topu,900,1308,1,bought,"kadeh 16, baykus 46",62,2,0.62,,,,3,1,0,R03,509,2026-11-09,recording
+13,25,pve,1,1,5,,900,431,0,declined,pve,,,,,,,4,1,0,R03,768,2026-11-09,recording
+14,26,normal,1,1,5,,900,477,0,declined,baykus 168,168,1,0.216,,,,3,1,0,R04,116,2026-11-09,recording
+15,26,normal,2,1,10,2 Elektrik Topu,900,477,0,declined,baykus 76,76,1,0.098,,,,6,1,0,R04,244,2026-11-09,recording
+16,26,normal,3,1,15,2 Elektrik Topu,900,477,0,declined,baykus 25,25,1,0.032,,,,6,1,0,R05,130,2026-11-09,recording
+17,32,normal,1,1,5,,900,751,0,declined,vazo 3,3,1,0.04,1,,Sihirli Kazan,8,1,0,R06,838,2026-11-09,recording
+18,53,normal,1,1,5,,900,2521,1,bought,"kaplumbaga 2, baykus 3",5,2,0.062,5,,,10,1,1,R07,237,2026-11-09,recording
+19,54,hard,1,1,5,,900,1640,1,bought,kadeh 3,3,1,0.04,5,,,3,1,0,R07,383,2026-11-09,recording
+20,57,normal,1,1,5,,900,940,1,bought,baykus 11,11,1,0.077,5,Zindandan Kacis,,2,1,0,R07,763,2026-11-09,recording
+21,57,normal,1,2,5,1 Roket,1900,40,0,declined,baykus 8,8,1,0.056,5,Zindandan Kacis,Sihirli Kazan + Zindandan Kacis,6,1,0,R07,787,2026-11-09,recording
+22,57,normal,2,1,10,2 Elektrik Topu,900,40,0,declined,"kadeh 7, vazo 3, baykus 36",46,3,0.322,0,,,3,1,0,R07,884,2026-11-09,recording
+23,57,normal,3,1,15,2 Elektrik Topu,900,40,0,declined,"vazo 1, baykus 32",33,2,0.231,0,,,3,1,0,R07,965,2026-11-09,recording
+24,57,normal,4,1,20,2 Elektrik Topu,900,40,0,declined,"kadeh 18, vazo 1, baykus 60",79,3,0.552,0,,,12,1,0,R07,1063,2026-11-09,recording
+25,57,normal,5,1,25,2 Elektrik Topu,900,40,0,declined,baykus 19,19,1,0.133,0,,,4,1,0,R07,1199,2026-11-09,recording
+26,57,normal,6,1,30,2 Elektrik Topu,900,40,0,declined,"kadeh 12, baykus 47",59,2,0.413,0,,,7,1,0,R08,107,2026-11-09,recording
+27,57,normal,7,1,35,2 Elektrik Topu,900,40,0,declined,"kadeh 4, baykus 59",63,2,0.441,0,,,3,1,0,R08,209,2026-11-09,recording
+28,57,normal,8,1,35,2 Elektrik Topu,900,240,0,declined,"kadeh 21, vazo 4, baykus 52",77,3,0.538,0,,,4,1,0,R08,322,2026-11-09,recording
+29,57,normal,9,1,35,2 Elektrik Topu,900,240,0,declined,"kadeh 6, baykus 45",51,2,0.357,0,,,5,1,0,R08,480,2026-11-09,recording
+30,57,normal,10,1,35,2 Elektrik Topu,900,245,0,declined,"kadeh 14, vazo 1, baykus 30",45,3,0.315,0,,,3,0,1,R09,152,2026-11-09,recording
+31,58,normal,1,1,5,,900,259,0,declined,buz 3,3,1,0.039,1,,Sihirli Kazan,3,0,1,R09,518,2026-11-09,recording
+32,58,normal,2,1,10,2 Elektrik Topu,900,259,0,declined,buz 6,6,1,0.079,0,,,4,0,1,R10,207,2026-11-09,recording
+33,59,superhard,1,1,5,,900,273,0,declined,"sutun 5, kaplumbaga 5, buz 39",49,3,0.613,1,,Sihirli Kazan,2,0,1,R10,439,2026-11-09,recording
+34,59,superhard,2,1,10,2 Elektrik Topu,900,273,0,declined,buz 1,1,1,0.013,0,,,3,0,1,R10,581,2026-11-09,recording
+35,59,superhard,3,1,15,2 Elektrik Topu,900,273,0,declined,"kaplumbaga 2, buz 19",21,2,0.263,0,,,1,0,1,R10,738,2026-11-09,recording
+36,59,superhard,4,1,20,2 Elektrik Topu,900,273,0,declined,buz 9,9,1,0.113,0,,,1,0,1,R10,861,2026-11-09,recording
+37,62,normal,1,1,5,,900,470,0,declined,fener 1,1,1,0.016,3,,Sihirli Kazan,5,0,1,R10,1480,2026-11-09,recording
+38,65,pve,1,1,5,,900,1150,1,bought,pve,,,,3,,,2,0,1,R11,444,2026-11-09,recording
+39,67,normal,1,1,5,,900,304,0,declined,"vazo 1, buz 15",16,2,0.16,5,Guc Akini,Sihirli Kazan + Alevler,3,0,1,R11,768,2026-11-09,recording
+40,67,normal,2,1,10,2 Elektrik Topu,900,304,0,declined,"vazo 6, buz 22",28,2,0.28,0,Guc Akini,Alevler,,0,1,R11,873,2026-11-09,recording
+41,67,normal,3,1,15,2 Elektrik Topu,900,304,0,declined,"kaplumbaga 2, buz 13",15,2,0.15,0,,,2,0,1,R12,142,2026-11-10,recording
+42,68,normal,3,1,15,2 Elektrik Topu,900,325,0,declined,"kadeh 7, fener 1, baykus 11",19,3,0.194,0,,,3,0,1,R13,221,2026-11-10,recording
+43,69,superhard,1,1,5,,900,347,0,declined,"fener 3, baykus 17",20,2,0.183,1,,Sihirli Kazan,6,0,1,R13,572,2026-11-10,recording
+44,69,superhard,2,1,10,2 Elektrik Topu,900,347,0,declined,baykus 25,25,1,0.229,0,,,3,0,1,R13,720,2026-11-10,recording
+45,69,superhard,3,1,15,2 Elektrik Topu,900,347,0,declined,baykus 3,3,1,0.028,0,,,2,0,1,R13,861,2026-11-10,recording
+46,69,superhard,4,1,20,2 Elektrik Topu,900,347,0,declined,"fener 1, baykus 34",35,2,0.321,0,,,1,0,1,R13,996,2026-11-10,recording
+47,69,superhard,5,1,25,2 Elektrik Topu,900,347,0,declined,"fener 6, baykus 28",34,2,0.312,0,,,,0,1,R14,169,2026-11-10,recording
+48,69,superhard,6,1,30,2 Elektrik Topu,900,347,0,declined,"fener 13, baykus 32",45,2,0.413,0,Guc Akini,Alevler,4,0,1,R15,146,2026-11-10,recording
+49,69,superhard,7,1,35,2 Elektrik Topu,900,347,0,declined,"fener 1, baykus 29",30,2,0.275,0,Guc Akini,Alevler,4,0,1,R15,292,2026-11-10,recording
+50,70,pve,1,1,5,,900,409,0,declined,pve,,,,1,Guc Akini,Sihirli Kazan + Alevler,6,0,1,R15,653,2026-11-10,recording
+51,76,normal,1,1,5,,900,1305,1,declined,fener 31,31,1,0.207,5,Guc Akini,Sihirli Kazan + Alevler,4,0,1,R15,1622,2026-11-10,recording
+52,76,normal,2,1,10,2 Elektrik Topu,900,1305,1,bought,fener 7,7,1,0.047,0,,,1,0,1,R16,172,2026-11-10,recording
+53,78,normal,1,1,5,,900,445,0,declined,"fener 2, tas_blok 9, buz 18",29,3,0.358,2,,Sihirli Kazan,3,0,1,R16,469,2026-11-10,recording
+54,79,superhard,1,1,5,,900,462,0,declined,"kadeh 5, buz 15",20,2,0.213,1,Zindandan Kacis,Sihirli Kazan + Zindandan Kacis,6,0,1,R17,203,2026-11-10,recording
+55,83,normal,1,1,5,,900,788,0,declined,"sihirli_kure 6, bahce_cucesi 19",25,2,0.595,4,,Sihirli Kazan,3,0,1,R17,844,2026-11-10,recording
+56,83,normal,2,1,10,2 Elektrik Topu,900,788,0,declined,sihirli_kure 3,3,1,0.071,0,,,2,0,1,R17,935,2026-11-10,recording
+57,83,normal,3,1,15,2 Elektrik Topu,900,788,0,declined,"sihirli_kure 7, bahce_cucesi 4",11,2,0.262,0,,,3,0,1,R17,1046,2026-11-10,recording
+58,83,normal,4,1,20,2 Elektrik Topu,900,788,0,declined,"sihirli_kure 8, bahce_cucesi 15",23,2,0.548,0,,,,0,1,R17,1144,2026-11-10,recording
+59,84,hard,1,1,5,,900,812,0,declined,baykus 18,18,1,0.145,1,,Sihirli Kazan,20,0,1,R18,258,2026-11-10,recording
+60,84,hard,2,1,10,2 Elektrik Topu,900,812,0,declined,"bahce_cucesi 7, baykus 44",51,2,0.411,0,,,4,0,1,R18,382,2026-11-10,recording
+61,86,normal,1,1,5,,900,891,0,declined,tas_blok 20,20,1,0.256,2,Zindandan Kacis,Sihirli Kazan + Zindandan Kacis,13,0,1,R19,808,2026-11-10,recording
+62,89,superhard,1,1,5,,900,957,1,declined,"bahce_cucesi 1, kadeh 5, buz 9",15,3,0.188,3,,Sihirli Kazan,2,0,1,R19,1266,2026-11-10,recording
+63,89,superhard,2,1,10,2 Elektrik Topu,900,957,1,declined,"bahce_cucesi 3, kadeh 9, buz 8",20,3,0.25,0,,,3,0,1,R19,1378,2026-11-10,recording
+64,89,superhard,3,1,15,2 Elektrik Topu,900,957,1,declined,"kadeh 10, buz 5",15,2,0.188,0,,,3,0,1,R19,1474,2026-11-10,recording
+65,89,superhard,4,1,20,2 Elektrik Topu,900,957,1,declined,"bahce_cucesi 8, kadeh 23, buz 9",40,3,0.5,0,,,2,0,1,R20,89,2026-11-10,recording
+66,89,superhard,5,1,25,2 Elektrik Topu,900,957,1,bought,buz 5,5,1,0.062,0,,,1,0,,R20,192,2026-11-10,recording
+67,92,normal,1,1,5,,900,259,0,declined,"kar 12, kardan_adam 2, vazo 1",15,3,,3,,Sihirli Kazan,3,0,1,R20,702,2026-11-10,recording
+68,93,normal,1,1,5,,900,282,0,declined,"kutu 3, kar 21, kardan_adam 1",25,3,,1,,Sihirli Kazan,3,0,1,R20,1017,2026-11-10,recording
+69,93,normal,2,1,10,2 Elektrik Topu,900,282,0,declined,"kutu 2, kar 28",30,2,,0,,,2,0,1,R20,1181,2026-11-10,recording
+70,93,normal,3,1,15,2 Elektrik Topu,900,282,0,declined,"kutu 2, kar 26",28,2,,0,,,2,0,1,R20,1334,2026-11-10,recording
+71,93,normal,4,1,20,2 Elektrik Topu,900,282,0,declined,"kutu 3, kar 22, kardan_adam 1",26,3,,0,,,2,0,1,R20,1487,2026-11-10,recording
+72,93,normal,5,1,25,2 Elektrik Topu,900,282,0,declined,"kutu 4, kar 10, kardan_adam 2",16,3,,0,,,3,0,1,R21,179,2026-11-10,recording
+73,93,normal,6,1,30,2 Elektrik Topu,900,282,0,declined,"kutu 9, kar 12, kardan_adam 2",23,3,,0,,,1,0,1,R21,341,2026-11-10,recording
+74,93,normal,7,1,35,2 Elektrik Topu,900,282,0,declined,"kutu 4, kar 28",32,2,,0,,,1,0,1,R21,485,2026-11-10,recording
+75,94,hard,1,1,5,,900,304,0,declined,"kar 6, kardan_adam 1, baykus 25",32,3,,1,,Sihirli Kazan,27,0,1,R22,301,2026-11-11,recording
+76,94,hard,2,1,10,2 Elektrik Topu,900,404,0,declined,"kar 6, baykus 5",11,2,,0,,,3,0,1,R23,294,2026-11-11,recording
+77,94,hard,3,1,15,2 Elektrik Topu,900,404,0,declined,"kadeh 7, kar 7, kardan_adam 1, baykus 37",52,4,,0,,,3,0,1,R23,441,2026-11-11,recording
+78,94,hard,4,1,20,2 Elektrik Topu,900,404,0,declined,baykus 17,17,1,,0,,,2,0,1,R23,634,2026-11-11,recording
+79,94,hard,5,1,25,2 Elektrik Topu,900,404,0,declined,baykus 21,21,1,,0,,,1,0,1,R23,788,2026-11-11,recording
+80,94,hard,6,1,30,2 Elektrik Topu,900,404,0,declined,baykus 8,8,1,,0,,,6,0,1,R23,947,2026-11-11,recording
+81,95,pve,1,1,5,,900,428,0,declined,pve,,,,1,Guc Akini,Sihirli Kazan + Alevler,4,0,1,R23,1249,2026-11-11,recording
+82,99,superhard,1,1,5,,900,532,0,declined,"kar 7, kardan_adam 1",8,2,,4,Guc Akini,Sihirli Kazan,4,0,1,R23,2000,2026-11-11,recording

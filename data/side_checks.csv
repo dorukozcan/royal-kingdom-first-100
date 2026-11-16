@@ -1,0 +1,7 @@
+check,date,game,account,client,recording,level,attempt,seq_in_attempt,moves_offered,extras,price_coin,balance,streak_step_at_stake,decision,card_under_offer,t,note
+second_account,2026-11-12,Royal Kingdom,second,tr,S1,9,1,1,5,,900,2303,,declined,none,750,planned fail
+second_account,2026-11-12,Royal Kingdom,second,tr,S1,9,2,1,5,,900,2303,,declined,none,853,planned fail
+second_account,2026-11-12,Royal Kingdom,second,tr,S1,9,3,1,5,,900,2303,,declined,none,923,planned fail
+second_account,2026-11-12,Royal Kingdom,second,tr,S1,15,1,1,5,,900,2692,,bought,starter pack,1534,Kingdom level; won with the extra moves
+second_account,2026-11-12,Royal Kingdom,second,tr,S1,17,1,1,5,,900,1829,,declined,starter pack,1738,recording ends before the second attempt
+english_client,2026-11-12,Royal Kingdom,first,en,E1,102,1,1,5,,900,1013,3,declined,,325,outside the 100-level log; failed on purpose to read the English screen

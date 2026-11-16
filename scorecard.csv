@@ -1,0 +1,43 @@
+id,metric,value,source
+A1,Game,Royal Kingdom,observed
+A2,Platform and store,"iOS, Türkiye store",observed
+A3,Played,2026-11-04 to 2026-11-11,observed
+A4,Levels covered,1-100,table
+A5,Attempts / failed attempts,179 / 79,table
+A6,Real money spent,0,observed
+B1,First level with a fail,9,table
+B2,First level with 3 or more fails,12,table
+B3_1,Levels 1-25: fails per level / first-try wins,0.56 / 15 of 25,table
+B3_26,Levels 26-50: fails per level / first-try wins,0.16 / 23 of 25,table
+B3_51,Levels 51-75: fails per level / first-try wins,1.24 / 17 of 25,table
+B3_76,Levels 76-100: fails per level / first-try wins,1.20 / 13 of 25,table
+B4,Most attempts on one level,11 (level 57),table
+B5,Levels that took 5 or more attempts,7,table
+B6,Levels on which lives ran out,8,table
+C1,First continue offer,"+5 moves for 900 coins (first offer on a level, 30 of 30 recorded levels)",observed
+C2,How the offer changes,"first offer of each attempt: +5 moves per attempt on the level, up to +35, price 900 (77 of 77 recorded first offers; 35 consecutive pairs of first offers in the same recording: 33 grew by 5, 2 stayed at the +35 cap). Not yet at level 9: +5 on consecutive attempts (form entry; three attempts on a second account, on video)",observed
+C3,Extras,2 Electro Balls from the second step (seen on every recorded step 2 to 7; placed on the board in the 2 purchases checked),observed
+C4,Second continue in the same attempt,"1,900 coins for +5 moves and 1 Rocket, seen once (level 57)",observed
+C5,What the offer reacts to,"offer content and price: no change seen with distance to goal, coin balance or streak at stake (one account)",observed
+C6,When the balance is short,"seen on levels 57 and 86: the button opens the shop; cheapest coin pack 1,000 coins for TRY 99.99",observed
+C7,Friction on declining,"with a streak or event at stake, closing the offer first showed what would be lost and a second tap closed (23 of 23 such declines; 0 of 48 declines with nothing at stake)",observed
+C8,Ad-funded continue,none seen in 82 logged offers,observed
+C9,Logged offer screens / continues bought,"82 / 9 (78 offers from recordings, 4 from the form)",table
+C10,Recorded offers the balance covered: bought,7 of 19,table
+C11,Recorded offers the balance did not cover: bought,0 of 59,table
+C12,Median seconds to decide: bought / declined,2 / 3,table
+C13,"Near-miss offers (one goal open, 3 or fewer items left), of recorded offers with an item goal",9 of 73,table
+D1,"Coin income per level, levels 15-100: level rewards / non-level coin rewards (21 itemized)",36.2 / 38.4,table
+D2,Share of coin income from non-level coin rewards,51%,table
+D3,First continue price in average level rewards,24.8,table
+D4,Coins spent on continues as a share of coin income,98%,table
+D5,First real-money offer,"level 13: one-time starter pack, TRY 49.99, 2,000 coins plus timed boosters, timer of about two days",observed
+D6,Lives,"5 lives, 30 minutes each; refill 900 coins",observed
+E1,Win-streak feature,"Magic Pots: unlocks at level 32, 5 stages, one free power-up per stage; resets when an attempt is lost, a bought continue that wins the attempt keeps it",observed
+E2,Longest run of levels started at the top stage,21,derived
+E3,Attempts started at the top stage: level passed (all are first attempts),21 of 24,derived
+E4,"Attempts started at stage 0: level passed (all are retries, so E3 and E4 do not isolate the streak)",21 of 62,derived
+E5,Free power-ups placed by the streak (sum of stages at the start of each attempt),206,derived
+F1,Special levels,"every 5th level Kingdom or Dark Kingdom; x4 hard, x9 super hard (from level 24)",observed
+F2,Levels that introduce a new item,"1, 4, 7, 11, 16, 21, 31, 41, 51, 61, 71, 81, 91 (from 11 on every level ending in 1, plus 16)",observed
+F3,In-level boosters first usable on levels,"8, 12, 17, 23, 28 (each announced after the level before)",observed

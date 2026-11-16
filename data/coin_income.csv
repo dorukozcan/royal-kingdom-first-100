@@ -1,0 +1,22 @@
+item,timing,level,source,amount,balance_before,balance_after,recording,t_from,t_to
+1,before,19,District chest,250,967,1217,R02,223,226
+2,before,35,Büyülü Hazine free box,100,823,923,R06,1194,1197
+3,before,35,Büyülü Hazine free box,100,923,1023,R06,1197,1208
+4,before,37,Diamond Mine stage reward,50,1082,1132,R06,1422,1427
+5,before,39,Kingdom Pass free track,100,1169,1269,R06,1639,1649
+6,before,41,Diamond Mine stage reward,100,1450,1550,R06,1822,1826
+7,before,41,District chest,250,1550,1800,R06,1874,1892
+8,before,46,Kingdom Pass free track,100,1933,2033,R06,2368,2379
+9,before,50,Diamond Mine stage reward,150,2155,2305,R06,2746,2748
+10,before,50,Grand Tournament stage reward,50,2305,2355,R06,2772,2774
+11,before,55,Grand Tournament stage reward,100,762,862,R07,424,468
+12,during,57,Team reward,200,40,240,R08,224,235
+13,during,57,Help sent to a teammate,5,240,245,R09,0,9
+14,before,64,Team Adventure chest,600,518,1118,R11,118,132
+15,before,71,Diamond Mine stage reward,200,525,725,R15,800,801
+16,before,71,District chest,250,725,975,R15,816,827
+17,before,72,Grand Tournament stage reward,200,990,1190,R15,930,933
+18,before,81,Kingdom Pass free track,100,636,736,R17,560,575
+19,before,94,Cube Blast stage reward,100,304,404,R23,4,105
+20,after,100,District chest,250,700,950,R23,2365,2369
+21,after,100,Grand Tournament stage reward,50,950,1000,R23,2374,2376

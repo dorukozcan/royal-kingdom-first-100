@@ -1,0 +1,101 @@
+level,type,goal,goal_units,moves,attempts,fails,moves_left,coins_spent,offer_seen,lives_out,pre_boosters,in_boosters,streak_step_first_attempt,reward_coin,reward_elixir,balance_begin,balance_end,started_utc,saved_utc,source
+1,normal,54 Kutu kır,54,30,1,0,5,0,0,0,0,0,,,,,,2026-11-04,2026-11-04,form
+2,normal,30 kutu kır,30,30,1,0,14,0,0,0,0,0,,,,,,2026-11-04,2026-11-04,form
+3,normal,45 kutu kır,45,32,1,0,7,0,0,0,0,0,,,,,,2026-11-04,2026-11-04,form
+4,normal,49 buz kır,49,25,1,0,6,0,0,0,0,0,,,,,,2026-11-04,2026-11-04,form
+5,pve,Kuşatmaya karşılık vererek savunacaksın PvE oyunu.,,32,1,0,9,0,0,0,0,0,,,,,,2026-11-04,2026-11-04,form
+6,normal,8 kutu ve 32 buz kır,40,32,1,0,8,0,0,0,1,0,,,,,,2026-11-04,2026-11-04,form
+7,normal,72 sarmaşık temizle,72,30,1,0,5,0,0,0,0,0,,,,,,2026-11-04,2026-11-04,form
+8,normal,"23 kutu kır, 36 sarmaşık kır",59,28,1,0,14,0,0,0,1,1,,,,,,2026-11-04,2026-11-04,form
+9,normal,"26 kutu kır, 27 buz kır, 28 sarmaşık kır",81,30,2,1,1,900,1,0,1,1,,,,,,2026-11-04,2026-11-04,form
+10,pve,Dev golemi hamlelerle yen 120 canı var. Ardından 2 tane daha geldi. Ardından 4 tane daha gibi ilerledi,,40,2,1,6,0,0,0,1,0,,,,,,2026-11-04,2026-11-04,form
+11,normal,5 sütun kır,5,25,1,0,10,0,0,0,1,0,,,,,,2026-11-07,2026-11-07,form
+12,normal,"8 Sütun kır, 34 kutu kır, 44 buz kır",86,26,4,3,3,0,0,0,0,1,,,,,,2026-11-07,2026-11-07,form
+13,normal,"8 Sütun kır, 32 buz kır",40,24,2,1,7,900,1,0,0,0,,,,,,2026-11-07,2026-11-07,form
+14,normal,"4 sütun kır, 40 sarmaşık kır",44,32,1,0,0,0,0,0,0,0,,,,,,2026-11-07,2026-11-07,form
+15,pve,Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama),,32,1,0,9,0,0,0,0,0,,24,100,878,902,2026-11-09,2026-11-09,recording
+16,normal,60 baykuş topla,60,25,1,0,11,0,0,0,0,0,,23,100,902,925,2026-11-09,2026-11-09,recording
+17,normal,"30 kutu kır, 30 sarmaşık kır, 50 baykuş topla",110,25,1,0,6,0,0,0,0,1,,21,100,925,946,2026-11-09,2026-11-09,recording
+18,normal,"9 sütun kır, 40 baykuş topla",49,27,2,1,8,0,1,0,0,0,,21,100,946,967,2026-11-09,2026-11-09,recording
+19,normal,"40 buz kır, 40 baykuş topla",80,25,3,2,0,0,1,0,0,0,,15,100,1217,1232,2026-11-09,2026-11-09,recording
+20,pve,Karanlık Krallık: Karanlık Kral'a karşı (2 aşama),,25,2,1,1,0,1,0,0,0,,14,100,1232,1246,2026-11-09,2026-11-09,recording
+21,normal,40 kadeh kır,40,25,1,0,6,0,0,0,1,0,,19,100,1246,1265,2026-11-09,2026-11-09,recording
+22,normal,"30 kadeh kır, 40 kutu kır",70,28,2,1,8,0,1,1,0,0,,19,100,1265,1284,2026-11-09,2026-11-09,recording
+23,normal,"40 kadeh kır, 32 kutu kır, 24 buz kır",96,24,1,0,2,0,0,0,0,1,,24,100,1284,1308,2026-11-09,2026-11-09,recording
+24,hard,"50 kadeh kır, 50 baykuş topla",100,24,3,2,2,900,1,0,3,0,,23,200,1308,431,2026-11-09,2026-11-09,recording
+25,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,36,2,1,14,0,1,0,2,0,,46,300,431,477,2026-11-09,2026-11-09,recording
+26,normal,777 baykuş topla,777,20,4,3,5,0,1,1,3,0,,21,100,477,498,2026-11-09,2026-11-09,recording
+27,normal,"40 kutu kır, 40 buz kır, 80 sarmaşık kır",160,27,1,0,12,0,0,0,0,0,,26,100,498,524,2026-11-09,2026-11-09,recording
+28,normal,"40 kadeh kır, 9 kutu kır, 35 sarmaşık kır, 42 baykuş topla",126,25,1,0,2,0,0,0,0,1,,18,100,524,542,2026-11-09,2026-11-09,recording
+29,superhard,"80 kadeh kır, 2 sütun kır, 18 buz kır",100,26,1,0,11,0,0,0,1,3,,67,500,542,609,2026-11-09,2026-11-09,recording
+30,pve,"Karanlık Krallık: Karanlık Kral'a karşı (2 aşama), ödüller x10",,33,1,0,5,0,0,0,0,0,,106,1000,609,715,2026-11-09,2026-11-09,recording
+31,normal,70 vazo kır,70,24,1,0,18,0,0,0,1,0,,36,100,715,751,2026-11-09,2026-11-09,recording
+32,normal,"36 vazo kır, 39 kutu kır",75,22,2,1,12,0,1,0,0,1,1,26,100,751,777,2026-11-09,2026-11-09,recording
+33,normal,"30 vazo kır, 45 sarmaşık kır",75,26,1,0,2,0,0,0,0,2,1,19,100,777,796,2026-11-09,2026-11-09,recording
+34,hard,"4 sütun kır, 40 buz kır, 58 vazo kır",102,37,1,0,6,0,0,0,1,2,2,27,200,796,823,2026-11-09,2026-11-09,recording
+35,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,30,1,0,4,0,0,0,1,0,3,36,300,1023,1059,2026-11-09,2026-11-09,recording
+36,normal,120 kadeh kır,120,20,1,0,2,0,0,0,1,0,4,23,100,1059,1082,2026-11-09,2026-11-09,recording
+37,normal,"32 kutu kır, 32 buz kır",64,27,1,0,3,0,0,0,1,2,5,20,100,1132,1152,2026-11-09,2026-11-09,recording
+38,normal,"4 sütun kır, 32 vazo kır, 43 buz kır, 27 sarmaşık kır",106,28,1,0,6,0,0,0,1,0,5,17,100,1152,1169,2026-11-09,2026-11-09,recording
+39,superhard,"50 kadeh kır, 30 vazo kır, 50 baykuş topla",130,29,1,0,13,0,0,0,1,1,5,71,500,1269,1340,2026-11-09,2026-11-09,recording
+40,pve,"Karanlık Krallık: Karanlık Kral'a karşı (2 aşama), ödüller x10",,30,1,0,7,0,0,0,1,0,5,110,1000,1340,1450,2026-11-09,2026-11-09,recording
+41,normal,16 sihirli küre kır,16,22,1,0,9,0,0,0,2,0,5,23,100,1800,1823,2026-11-09,2026-11-09,recording
+42,normal,"28 vazo kır, 28 sihirli küre kır",56,24,1,0,13,0,0,0,3,0,5,25,100,1823,1848,2026-11-09,2026-11-09,recording
+43,normal,"24 kutu kır, 12 sihirli küre kır, 24 buz kır",60,23,1,0,11,0,0,0,3,1,5,21,100,1848,1869,2026-11-09,2026-11-09,recording
+44,hard,"16 sihirli küre kır, 50 kadeh kır, 30 baykuş topla",96,31,1,0,0,0,0,0,3,4,5,24,200,1869,1893,2026-11-09,2026-11-09,recording
+45,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,32,1,0,7,0,0,0,3,0,5,40,300,1893,1933,2026-11-09,2026-11-09,recording
+46,normal,"69 kutu kır, 500 vazo kır",569,24,1,0,5,0,0,0,3,0,5,18,100,2033,2051,2026-11-09,2026-11-09,recording
+47,normal,"6 sütun kır, 28 kutu kır, 50 baykuş topla",84,21,1,0,13,0,0,0,3,0,5,25,100,2051,2076,2026-11-09,2026-11-09,recording
+48,normal,"42 vazo kır, 20 kadeh kır, 8 sihirli küre kır, 56 sarmaşık kır",126,26,1,0,5,0,0,0,3,0,5,18,100,2076,2094,2026-11-09,2026-11-09,recording
+49,superhard,"3 sütun kır, 24 sihirli küre kır, 12 kutu kır, 12 sarmaşık kır",51,30,1,0,11,0,0,0,3,6,5,61,500,2094,2155,2026-11-09,2026-11-09,recording
+50,pve,"Karanlık Krallık: Karanlık Kral'a karşı (2 aşama), ödüller x10",,34,1,0,7,0,0,0,3,0,5,110,1000,2355,2465,2026-11-09,2026-11-09,recording
+51,normal,5 kaplumbağa topla,5,30,1,0,20,0,0,0,0,0,5,33,100,2465,2498,2026-11-09,2026-11-09,recording
+52,normal,"60 vazo kır, 6 kaplumbağa topla",66,22,1,0,13,0,0,0,0,0,5,23,100,2498,2521,2026-11-09,2026-11-09,recording
+53,normal,"36 kutu kır, 8 kaplumbağa topla, 36 baykuş topla",80,30,1,0,3,900,1,0,0,0,5,19,100,2521,1640,2026-11-09,2026-11-09,recording
+54,hard,"50 kadeh kır, 5 kaplumbağa topla, 20 sihirli küre kır",75,30,1,0,0,900,1,0,3,0,5,22,200,1640,762,2026-11-09,2026-11-09,recording
+55,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,24,1,0,15,0,0,0,3,0,5,47,300,862,909,2026-11-09,2026-11-09,recording
+56,normal,80 sihirli küre kır,80,26,1,0,18,0,0,0,3,0,5,31,100,909,940,2026-11-09,2026-11-09,recording
+57,normal,"50 kadeh kır, 33 vazo kır, 60 baykuş topla",143,28,11,10,0,900,1,1,4,0,5,14,100,940,259,2026-11-09,2026-11-09,recording
+58,normal,"28 sihirli küre kır, 4 kaplumbağa topla, 28 buz kır, 16 sarmaşık kır",76,31,3,2,1,0,1,0,6,0,1,14,100,259,273,2026-11-09,2026-11-09,recording
+59,superhard,"5 sütun kır, 5 kaplumbağa topla, 25 kutu kır, 45 buz kır",80,25,5,4,6,0,1,0,15,1,1,60,500,273,333,2026-11-09,2026-11-09,recording
+60,pve,"Karanlık Krallık: Karanlık Kral'a karşı (2 aşama), ödüller x10",,27,1,0,5,0,0,0,3,0,1,110,1000,333,443,2026-11-09,2026-11-09,recording
+61,normal,54 fener kır,54,30,1,0,13,0,0,0,3,0,2,27,100,443,470,2026-11-09,2026-11-09,recording
+62,normal,"42 fener kır, 20 kutu kır",62,32,2,1,11,0,1,0,6,1,3,21,100,470,491,2026-11-09,2026-11-09,recording
+63,normal,"30 kadeh kır, 40 fener kır, 12 buz kır",82,34,1,0,12,0,0,0,0,0,1,27,100,491,518,2026-11-09,2026-11-09,recording
+64,hard,"3 sütun kır, 34 fener kır, 4 kaplumbağa topla",41,30,1,0,3,0,0,0,3,2,2,32,200,1118,1150,2026-11-09,2026-11-09,recording
+65,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,35,1,0,2,900,1,0,1,0,3,35,300,1150,285,2026-11-09,2026-11-09,recording
+66,normal,"9 kutu kır, 150 kaplumbağa topla",159,25,1,0,4,0,0,0,0,0,4,19,100,285,304,2026-11-09,2026-11-09,recording
+67,normal,"12 sihirli küre kır, 6 kaplumbağa topla, 32 vazo kır, 50 buz kır",100,26,4,3,8,0,1,0,1,0,5,21,100,304,325,2026-11-09,2026-11-10,recording
+68,normal,"40 kadeh kır, 28 fener kır, 30 baykuş topla",98,40,4,3,10,0,1,0,0,0,1,22,100,325,347,2026-11-10,2026-11-10,recording
+69,superhard,"25 fener kır, 16 kutu kır, 28 sarmaşık kır, 40 baykuş topla",109,29,8,7,6,0,1,1,0,0,1,62,500,347,409,2026-11-10,2026-11-10,recording
+70,pve,"Karanlık Krallık: Karanlık Kral'a karşı (2 aşama), ödüller x10",,33,2,1,10,0,1,0,0,0,1,116,1000,409,525,2026-11-10,2026-11-10,recording
+71,normal,54 taş blok kır,54,23,1,0,2,0,0,0,0,0,1,15,100,975,990,2026-11-10,2026-11-10,recording
+72,normal,"60 taş blok kır, 60 vazo kır",120,30,1,0,6,0,0,0,0,0,2,18,100,1190,1208,2026-11-10,2026-11-10,recording
+73,normal,"16 sihirli küre kır, 33 taş blok kır, 40 baykuş topla",89,31,1,0,2,0,0,0,0,0,3,16,100,1208,1224,2026-11-10,2026-11-10,recording
+74,hard,"3 kaplumbağa topla, 30 taş blok kır, 30 fener kır",63,34,1,0,13,0,0,0,3,0,4,34,200,1224,1258,2026-11-10,2026-11-10,recording
+75,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,30,1,0,13,0,0,0,0,0,5,47,300,1258,1305,2026-11-10,2026-11-10,recording
+76,normal,150 fener kır,150,26,2,1,9,900,1,0,0,0,5,19,100,1305,424,2026-11-10,2026-11-10,recording
+77,normal,"36 vazo kır, 4 kaplumbağa topla, 24 sihirli küre kır, 36 sarmaşık kır",100,27,1,0,7,0,0,0,1,0,1,21,100,424,445,2026-11-10,2026-11-10,recording
+78,normal,"9 fener kır, 9 taş blok kır, 18 buz kır, 45 sarmaşık kır",81,25,2,1,3,0,1,0,2,0,2,17,100,445,462,2026-11-10,2026-11-10,recording
+79,superhard,"40 kadeh kır, 13 taş blok kır, 25 kutu kır, 16 buz kır",94,34,2,1,2,0,1,0,0,0,1,56,500,462,518,2026-11-10,2026-11-10,recording
+80,pve,"Karanlık Krallık: Karanlık Kral'a karşı (2 aşama), ödüller x10",,30,1,0,7,0,0,0,0,2,1,118,1000,518,636,2026-11-10,2026-11-10,recording
+81,normal,63 bahçe cücesi kır,63,26,1,0,5,0,0,0,0,0,2,19,100,736,755,2026-11-10,2026-11-10,recording
+82,normal,"56 bahçe cücesi kır, 16 kutu kır",72,24,1,0,14,0,0,0,0,0,3,33,100,755,788,2026-11-10,2026-11-10,recording
+83,normal,"4 sütun kır, 8 sihirli küre kır, 30 bahçe cücesi kır",42,23,5,4,11,0,1,1,1,0,4,24,100,788,812,2026-11-10,2026-11-10,recording
+84,hard,"32 bahçe cücesi kır, 32 sarmaşık kır, 60 baykuş topla",124,32,3,2,15,0,1,1,2,0,1,40,200,812,852,2026-11-10,2026-11-10,recording
+85,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,35,1,0,5,0,0,0,0,0,1,39,300,852,891,2026-11-10,2026-11-10,recording
+86,normal,78 taş blok kır,78,23,2,1,5,0,1,0,0,0,2,32,100,891,923,2026-11-10,2026-11-10,recording
+87,normal,"3 kaplumbağa topla, 20 fener kır, 20 sihirli küre kır, 30 sarmaşık kır",73,26,1,0,5,0,0,0,0,0,1,22,100,923,945,2026-11-10,2026-11-10,recording
+88,normal,"6 sütun kır, 15 bahçe cücesi kır, 3 kaplumbağa topla, 50 baykuş topla",74,24,1,0,1,0,0,0,0,0,2,12,100,945,957,2026-11-10,2026-11-10,recording
+89,superhard,"9 bahçe cücesi kır, 50 kadeh kır, 12 taş blok kır, 9 buz kır",80,26,5,4,22,900,1,0,3,0,3,74,500,957,131,2026-11-10,2026-11-10,recording
+90,pve,"Karanlık Krallık: Karanlık Kral'a karşı (3 aşama), ödüller x10",,34,1,0,10,0,0,0,0,1,1,111,1000,131,242,2026-11-10,2026-11-10,recording
+91,normal,"4 kardan adam, kar yay (kar sayısı oyun içinde değişiyor)",4,27,1,0,2,0,0,0,1,0,2,17,100,242,259,2026-11-10,2026-11-10,recording
+92,normal,"4 kardan adam, 54 vazo kır, kar yay (kar sayısı oyun içinde değişiyor)",58,28,2,1,3,0,1,0,0,1,3,23,100,259,282,2026-11-10,2026-11-10,recording
+93,normal,"20 kutu kır, 3 kardan adam, 20 sihirli küre kır, kar yay (kar sayısı oyun içinde değişiyor)",43,31,8,7,10,0,1,1,0,0,1,22,100,282,304,2026-11-10,2026-11-11,recording
+94,hard,"40 kadeh kır, 4 kardan adam, 40 baykuş topla, kar yay (kar sayısı oyun içinde değişiyor)",84,31,7,6,3,0,1,1,2,0,1,24,200,404,428,2026-11-11,2026-11-11,recording
+95,pve,"Krallık Bölümü: Karanlık Kral'ın kalelerini yık (2 aşama), ödüller x3",,26,2,1,8,0,1,0,0,0,1,40,300,428,468,2026-11-11,2026-11-11,recording
+96,normal,120 bahçe cücesi kır,120,30,1,0,7,0,0,0,1,0,1,22,100,468,490,2026-11-11,2026-11-11,recording
+97,normal,"32 fener kır, 24 sihirli küre kır, 4 kaplumbağa topla",60,35,1,0,0,0,0,0,1,0,2,17,100,490,507,2026-11-11,2026-11-11,recording
+98,normal,"5 sütun kır, 3 kardan adam, 24 sarmaşık kır, kar yay (kar sayısı oyun içinde değişiyor)",32,25,1,0,5,0,0,0,1,0,3,25,100,507,532,2026-11-11,2026-11-11,recording
+99,superhard,"2 kardan adam, 32 bahçe cücesi kır, 20 sarmaşık kır, kar yay (kar sayısı oyun içinde değişiyor)",54,32,2,1,2,0,1,0,3,0,4,56,500,532,588,2026-11-11,2026-11-11,recording
+100,pve,"Karanlık Krallık: Karanlık Kral'a karşı (2 aşama), ödüller x10",,35,1,0,10,0,0,0,1,0,1,112,1000,588,1000,2026-11-11,2026-11-11,recording
