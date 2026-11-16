@@ -6,6 +6,13 @@ This is an independent player study. I am not affiliated with Dream Games. I pla
 
 ![Three continue offers on level 57](figures/level57_three_offers_en.png)
 
+**At a glance**
+
+- 100 levels on a new account: 179 attempts and 82 logged continue offers, 78 of them on video.
+- The log matches the game's own first-try counter at four checkpoints, and the coin balance reconciles level by level.
+- In my recordings, levels 15 to 100, the first offer of an attempt always cost 900 coins and grew by five moves per retry, up to +35: of 35 consecutive retry pairs, 33 grew by five and 2 were already at +35.
+- One proposed A/B test, not run: +5 against +10 moves at the same price while the streak can still be saved, judged on the same-session pass rate.
+
 **What I saw.** In my log the first continue offer of an attempt, always 900 coins, was at its smallest while the win streak could still be saved, and it grew only on retries, after the streak had reset. The two-page memo says how firm that is, what I did as a player, and which single experiment I would run: [memo/out_of_moves.pdf](memo/out_of_moves.pdf) ([markdown](memo/out_of_moves.md)).
 
 This is one player's log. It shows what happened to me, not what happens on average.
